@@ -1,9 +1,4 @@
 <h1 align="center">Hi 👋, I'm Miran</h1>
-<h3 align="center">I'm a recent computer science grad excited to dive into new projects and learn along the way. Always ready for a challenge and eager to make an impact. Let's connect!"</h3>
-
-- 📫 How to reach me **miranbeshir@gmail.com**
-
-<h1 align="center">>Hi 👋, I'm Miran</h1>
 
 <p>I'm a recent computer science grad excited to dive into new projects and learn along the way. Always ready for a challenge and eager to make an impact. Let's connect!"</ </p>
 
