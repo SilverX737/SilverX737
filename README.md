@@ -3,10 +3,18 @@
 
 - 📫 How to reach me **miranbeshir@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/miran-beshir-108991240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miran-beshir-108991240" height="30" width="40" /></a>
+<h1 align="center">>Hi 👋, I'm Miran</h1>
+
+<p>I'm a recent computer science grad excited to dive into new projects and learn along the way. Always ready for a challenge and eager to make an impact. Let's connect!"</ </p>
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://github.com/SilverX737" target="__blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="SilverX737"/></a>
+<a href="miranbeshir@gmail.com" target="__blank"><img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="miranbeshir@gmail.com"/></a>
+<a href="https://www.linkedin.com/in/miran-beshir-108991240/" target="__blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Miran Beshir"/></a>
 </p>
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -70,5 +78,12 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   </a>
 </p>
+
+
+  
+  
+
+
+
 
 
