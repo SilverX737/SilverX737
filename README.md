@@ -8,7 +8,7 @@
 <a href="mailto:miranbeshir@gmail.com" target="_blank">
   <img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/miran-beshir-108991240/" target="__blank"><img align="center" src="https://img.shields.io/badge/xxxLinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Miran Beshir"/></a>
+<a href="https://www.linkedin.com/in/xxxmiran-beshir-108991240/" target="__blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Miran Beshir"/></a>
 </p>
 
 ---
