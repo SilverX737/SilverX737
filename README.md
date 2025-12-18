@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Miran</h1>
 
-<p>I'm a recent computer science grad excited to dive into new projects and learn along the way. Always ready for a challenge and eager to make an impact. Let's connect!"</ </p>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
